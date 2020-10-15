@@ -1,0 +1,24 @@
+body{
+	text-align: center;
+	font-family: sans-serif;
+}
+
+td{
+	text-align: center;
+	padding: 5px;
+}
+
+.form{
+	margin-top: 20px;
+}
+
+#content{
+	text-align: center;
+	width: 70%;
+}
+
+#tasks{
+	align-content: center;
+	text-align: center;
+	width: 70%;
+}

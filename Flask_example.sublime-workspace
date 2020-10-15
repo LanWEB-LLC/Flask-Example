@@ -1,0 +1,444 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"post",
+				"postController"
+			],
+			[
+				"user",
+				"userController"
+			],
+			[
+				"Use",
+				"userController"
+			],
+			[
+				"u",
+				"User"
+			],
+			[
+				"unique",
+				"uniqueValidator"
+			],
+			[
+				"fetche",
+				"fetchedPosts"
+			],
+			[
+				"page",
+				"pageSize"
+			],
+			[
+				"image",
+				"imagePath"
+			],
+			[
+				"date",
+				"date_posted"
+			],
+			[
+				"re",
+				"render_template"
+			],
+			[
+				"c",
+				"Column"
+			],
+			[
+				"dat",
+				"date_created"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Package Control Messages\n========================\n\nBracketHighlighter\n------------------\n\n  # BracketHighlighter 2.28.0\n\n  New release!\n\n  A restart might be required. If you see issues immediately after the update  \n  please try restarting.\n\n  Please see `Preferences->Package Settings->BracketHighlighter->Changelog`  \n  for more info about the release.\n\nChineseLocalizations\n--------------------\n\n  1.11.7\n  更新简体中文翻译. 加入3200支持，目前支持到3211.\n\n  Update Simplified Chinese translation. Support Sublime Text 3200 and 3211.\n\n  1.11.6 1.11.5\n  更新链接为https\n\n  Update url to HTTPS\n\n  1.11.4\n  更新德语翻译. 加入3170支持，目前支持到3176.\n\n  Update German translation. Support Sublime Text 3170 and 3176.\n\n\n  1.11.3 1.11.2\n  更新德语翻译，修复mnemonic问题\n\n  Update German translation, bugfix about mnemonic\n\n\n  1.11.1\n  新加语言bug修复\n\n  bugfix for new languages support\n\n\n  1.11.0\n  除了目前已经支持的繁简中文日语，新增支持俄语、西班牙语、法语等欧洲语言。德语也在等待pull requests中。\n\n  Add support for Русский(Russian) Español(Spanish) Հայերեն(Armenian) Svenska(Swedish) Français(French)\n\n\n  1.10.0\n  Fix #20\n  合并繁体中文翻译pull requests\n  翻译更新到3152，支持到3156.\n\n  Support Sublime Text 3152+, update translation to 3156.",
+			"settings":
+			{
+				"buffer_size": 1129,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"function fact(n)",
+			"print(\"H\")",
+			"lua",
+			"lua C:\\Users\\junha\\Desktop\\a.lua",
+			"9",
+			"2"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/newpro/mean",
+		"/D/newpro/mean/backend",
+		"/D/newpro/mean/backend/images"
+	],
+	"file_history":
+	[
+		"/D/newpro/mean/backend/app.js",
+		"/D/newpro/mean/backend/middleware/check-auth.js",
+		"/D/newpro/mean/backend/controllers/user.js",
+		"/D/newpro/mean/backend/package.json",
+		"/D/newpro/mean/backend/server.js",
+		"/D/newpro/mean/nodemon.json",
+		"/D/newpro/mean/package.json",
+		"/D/newpro/mean/src/app/posts/post.service.ts",
+		"/D/newpro/mean/src/app/auth/auth.service.ts",
+		"/D/newpro/mean/src/environments/environment.ts",
+		"/D/newpro/mean/src/app/app.module.ts",
+		"/D/newpro/mean/src/app/auth/auth.module.ts",
+		"/D/newpro/mean/src/app/posts/posts.module.ts",
+		"/D/newpro/mean/src/app/app-routing.module.ts",
+		"/D/newpro/mean/src/app/auth/auth.guard.ts",
+		"/D/newpro/mean/src/app/auth/auth-routing.module.ts",
+		"/D/newpro/mean/src/app/angular-material.module.ts",
+		"/D/newpro/mean/backend/middleware/file.js",
+		"/D/newpro/mean/backend/routes/posts.js",
+		"/D/newpro/mean/backend/controllers/posts.js",
+		"/D/newpro/mean/backend/routes/user.js",
+		"/D/newpro/mean/src/app/posts/post.model.ts",
+		"/D/newpro/mean/src/app/posts/post-list/post-list.component.ts",
+		"/D/newpro/mean/src/app/posts/post-list/post-list.component.html",
+		"/D/newpro/mean/src/app/auth/login/login.component.ts",
+		"/D/newpro/mean/src/app/auth/signup/signup.component.ts",
+		"/D/newpro/mean/src/app/error/error.component.html",
+		"/D/newpro/mean/src/app/error/error.component.ts",
+		"/D/newpro/mean/src/app/error-interceptor.ts",
+		"/D/newpro/mean/src/app/posts/post-create/post-create.component.ts",
+		"/D/newpro/mean/backend/models/post.js",
+		"/D/newpro/mean/src/app/header/header.component.css",
+		"/D/newpro/mean/src/app/header/header.component.ts",
+		"/D/newpro/mean/src/app/header/header.component.html",
+		"/D/newpro/mean/backend/models/user.js",
+		"/D/newpro/mean/src/app/auth/auth-data.model.ts",
+		"/D/newpro/mean/src/app/auth/auth-interceptor.ts",
+		"/D/newpro/mean/src/app/app.component.ts",
+		"/D/newpro/mean/src/app/auth/signup/signup.component.html",
+		"/D/newpro/mean/src/app/auth/login/login.component.css",
+		"/D/newpro/mean/src/app/auth/login/login.component.html",
+		"/D/newpro/mean/src/app/posts/post-list/post-list.component.css",
+		"/D/newpro/mean/src/app/posts/post-create/post-create.component.css",
+		"/D/newpro/mean/src/app/posts/post-create/mime-type.validator.ts",
+		"/D/newpro/mean/src/app/posts/post-create/post-create.component.html",
+		"/D/newpro/mean/backend/images/aaaaaaaaaa-1584675330479.png",
+		"/D/newpro/mean/src/app/app.component.html",
+		"/D/newpro/mean/server.js",
+		"/D/newpro/mean/src/app/app.component.css",
+		"/D/newpro/mean/src/app/posts/post-lists/post-list.component.html",
+		"/D/newpro/mean/src/app/posts/post-lists/post-list.component.ts",
+		"/D/newpro/mean/src/app/posts/header/header.component.html",
+		"/D/newpro/mean/src/app/posts/header/header.component.ts",
+		"/D/newpro/mean/angular.json",
+		"/C/Users/junha/Desktop/mean.sublime-project",
+		"/D/Flask_example/Flask_example.sublime-project",
+		"/D/newpro/mean/src/main.ts",
+		"/D/django_example/mysite/mysite/urls.py",
+		"/D/django_example/mysite/polls/urls.py",
+		"/D/django_example/mysite/mysite/settings.py",
+		"/D/django_example/mysite/polls/admin.py",
+		"/D/django_example/mysite/polls/models.py",
+		"/D/django_example/mysite/polls/templates/polls/index.html",
+		"/D/django_example/mysite/polls/templates/polls/detail.html",
+		"/D/django_example/mysite/polls/templates/polls/results.html",
+		"/D/django_example/mysite/polls/views.py",
+		"/D/Blog/templates/contact.html",
+		"/D/Blog/templates/post.html",
+		"/D/Blog/templates/about.html",
+		"/D/Blog/templates/index.html",
+		"/D/Blog/templates/add.html",
+		"/D/Blog/templates/update.html",
+		"/D/Blog/app.py",
+		"/D/Blog/static/clean-blog.min.js",
+		"/D/Blog/static/jquery.min.js",
+		"/D/Flask_example/static/css/main.css",
+		"/D/Flask_example/templates/index.html",
+		"/D/Flask_example/templates/base.html",
+		"/D/Flask_example/templates/update.html",
+		"/D/Flask_example/Flask_example.py",
+		"/D/templates/index.html",
+		"/D/Flask_example.py",
+		"/D/index.html",
+		"/C/Users/junha/Desktop/Flask_example",
+		"/C/Users/junha/Desktop/myexample/e1/config",
+		"/C/Users/junha/Desktop/examples/share.lua",
+		"/C/Users/junha/Desktop/some-mmorpg-master/client/client.lua",
+		"/C/Users/junha/Desktop/some-mmorpg-master/server/lualib/config/database.lua",
+		"/C/Users/junha/Desktop/some-mmorpg-master/server/service/database.lua",
+		"/C/Users/junha/Desktop/simple_mmo_master/client.lua",
+		"/C/Users/junha/Desktop/myexample/e4/client2.lua",
+		"/C/Users/junha/Desktop/myexample/e3/client1.lua",
+		"/C/Users/junha/Desktop/some-mmorpg-master/common/constant.lua",
+		"/C/Users/junha/Desktop/examples/main_mysql.lua",
+		"/C/Users/junha/Desktop/examples/login/gated.lua",
+		"/C/Users/junha/Desktop/examples/login/client.lua",
+		"/C/Users/junha/Desktop/examples/config.login",
+		"/C/Users/junha/Desktop/examples/login/msgagent.lua",
+		"/C/Users/junha/Desktop/examples/login/main.lua",
+		"/C/Users/junha/Desktop/examples/login/logind.lua",
+		"/C/Users/junha/Desktop/examples/userlog.lua",
+		"/C/Users/junha/Desktop/myexample/e5/main.lua",
+		"/C/Users/junha/Desktop/examples/main.lua",
+		"/C/Users/junha/Desktop/examples/agent.lua",
+		"/C/Users/junha/Desktop/examples/client.lua",
+		"/C/Users/junha/Desktop/examples/proto.lua",
+		"/C/Users/junha/Desktop/myexample/e5/proto.lua",
+		"/C/Users/junha/Desktop/myexample/e5/client3.lua",
+		"/C/Users/junha/Desktop/myexample/e5/socket3.lua",
+		"/C/Users/junha/Desktop/myexample/e5/config",
+		"/C/Users/junha/Desktop/myexample/e2/config",
+		"/C/Users/junha/Desktop/myexample/e3/config",
+		"/C/Users/junha/Desktop/myexample/e4/config",
+		"/C/Users/junha/Desktop/myexample/e4/main.lua",
+		"/C/Users/junha/Desktop/myexample/e3/main.lua",
+		"/C/Users/junha/Desktop/myexample/e2/main.lua",
+		"/C/Users/junha/Desktop/myexample/e1/main.lua",
+		"/C/Users/junha/Desktop/examples/abort.lua",
+		"/C/Users/junha/Desktop/a.lua",
+		"/C/Users/junha/Desktop/myexample/e1/socket2.lua",
+		"/C/Users/junha/Desktop/myexample/e1/client2.lua",
+		"/C/Users/junha/Desktop/myexample/e1/socket1.lua",
+		"/C/Users/junha/Desktop/root/sftp-config.json",
+		"/C/Users/junha/Desktop/root/myexample/e1/service1.lua",
+		"/C/Users/junha/Desktop/root/myexample/e1/main.lua",
+		"/C/Users/junha/Desktop/root/myexample/e1/config",
+		"/C/Users/junha/Desktop/root/sftp-config-alt.json",
+		"/C/Users/junha/Desktop/root/config.path"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"express",
+			"router",
+			"autoAuthUser",
+			";\n",
+			"filename",
+			"updatedPosts",
+			"params",
+			"postData",
+			"[]>('",
+			"style",
+			"sendMessageButton",
+			"sqlite",
+			"center",
+			"config",
+			"aes",
+			"public_key",
+			"user",
+			"server",
+			"login_port",
+			"session",
+			"RESPONSE",
+			"handshake",
+			"args",
+			"recv",
+			"dispatch_message",
+			"character_create",
+			"user",
+			"load",
+			"handle_cmd",
+			"print",
+			"srp",
+			"aes"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1129,
+								1129
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"bracket_highlighter.busy": false,
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "Packages/Lua/Lua.sublime-build",
+	"project": "Flask_example.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
